@@ -10,7 +10,7 @@ export default function HeroSection() {
         <center>
         <div className="hero--section--content--box">
           <div className="hero--section--content">
-            <p className="section--title">Hey, I’m Yashwanth Chennu</p>
+            <p className="section--title">Hey, I’m Lakshana Kundan</p>
             <h1 className="hero--section--title">
               {/* <span className="hero--section-title--color">Full Stack Developer and Machine Learning Enthusiast</span>{" "}
               <br /> */}
@@ -39,7 +39,7 @@ export default function HeroSection() {
                 rel="noreferrer"
               >
                 <FaGithub size={30} color="black" />
-                Github
+                
               </a>
             </li>
             <li>
@@ -50,7 +50,7 @@ export default function HeroSection() {
                 rel="noreferrer"
               >
                 <SiLeetcode size={30} color="black" />
-                Leetcode
+                
               </a>
             </li>
             <li>
@@ -61,7 +61,7 @@ export default function HeroSection() {
                 rel="noreferrer"
               >
                 <FaUserCog size={30} color="black" />
-                Portfolio
+                
               </a>
             </li>
             <li>
@@ -85,7 +85,7 @@ export default function HeroSection() {
                     fill="black"
                   />
                 </svg>
-                LinkedIn
+                
               </a>
             </li>
           </ul>
